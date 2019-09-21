@@ -10,3 +10,5 @@ sidebar-about-description:"Place to write-down"
 # Featured Tags
 featured-tags: true  
 featured-condition-size: 1 
+
+theme: jekyll-theme-minimal
