@@ -1,1 +1,12 @@
 base-url: /blog
+
+# Site setting
+description: "Place to write-down"
+
+# Sidebar settings
+sidebar: true  #添加侧边栏
+sidebar-about-description:"Place to write-down"
+
+# Featured Tags
+featured-tags: true  
+featured-condition-size: 1 
